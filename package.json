@@ -1,0 +1,14 @@
+{
+  "name": "em-case",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0",
+    "slidev-theme-nord": "^0.0.6"
+  }
+}

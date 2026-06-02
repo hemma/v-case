@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Slidev / Vite build output
+dist/
+.slidev/
+*.local
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+
+# Exported decks are committed — do NOT ignore *.pptx
+# (PNG assets and package-lock.json are also tracked)
